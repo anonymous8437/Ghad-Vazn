@@ -13,5 +13,6 @@ main(){
 	cout<<"Vazn E'dealet :"<<vazn<<"\n";
 	int ezafe = (weight)-vazn;
 	cout<<ezafe<<"Kg Ezafe\\Kam Dari!";
-	
+	int r;
+	cin>>r;
 }
